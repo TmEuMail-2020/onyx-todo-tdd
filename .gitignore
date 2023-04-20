@@ -1,3 +1,5 @@
 /node_modules/
 .idea
 /todos.json
+/index.js
+/index.js.map
